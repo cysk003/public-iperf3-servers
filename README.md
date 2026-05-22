@@ -4,10 +4,11 @@
   <a href="https://iperf3serverlist.net" target="_blank"><img src="iperf3serverlist_256.png" width="150"></a><br/>  
   <b><a href="https://iperf3serverlist.net" target="_blank">iperf3serverlist.net</a></b><br/>
   <br/>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-green.svg?color=0066ff&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec" alt="License: MIT"></a> <br/>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-green.svg?color=0066ff&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec" alt="License: MIT"></a> <br>
    <a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg" alt="#StandWithUkraine" /></a>
-<h3 align="center">A list of public iPERF3 servers to perform bandwidth and speedtests across different geographical regions.</h3>  
-  </a>
+<h3 align="center">A list of public iPERF3 servers to perform bandwidth and speedtests across different geographical regions.</h3> 
+  <p align="center">
+  <a href="https://up.iperf3serverlist.net"><img src="https://30d-uptime.iperf3serverlist.net/badge.svg" alt="Uptime"></a>
 </p>
 <p align="center">
 This project is sponsored and supported by <a href="https://cloud.hosthatch.com/a/772" target="_blank">HostHatch</a> and <a href="https://censys.com" target="_blank">Censys</a>.
@@ -36,7 +37,7 @@ Do you want to add/remove an IP or HOST to this list? Please create a [new issue
 * [NORTH AMERICA](#north-america)
 * [OCEANIA](#oceania)
 
-:sparkles: Servers with an uptime of 90% or less in 30 days will be removed.
+:sparkles: Servers with an uptime of 90% or less in 30 days will be removed.   
 
 ### AFRICA
 | **COMMAND** | **OPTIONS** | **GB/S** | **COUNTRY** | **SITE** |
@@ -285,7 +286,7 @@ Files are **refreshed automatically every hour**.
 *   [iPERF3 Map](https://github.com/R0GGER/iPERF3-MAP) - Visualizes iPerf3 servers on a global map using Leaflet.js, allowing you to initiate speed tests directly from the map markers. `Python` `Docker`
 *   [iPERF3 Speedtest](https://github.com/R0GGER/iperf3-speedtest) - A simple Python tool and web app to measure your internet speed using public iperf3 servers. `Python`
 *   [iperf3-tui](https://github.com/dmdmdm/iperf3-tui) - Draw a moving speed test graph in your terminal `Rust`
-*   [iPerf3-WebUI](https://github.com/MaddyDev-glitch/iperf3-webui) - A modern, lightweight, web-based iPerf3 GUI built with Python 3 and Flask. `Python` `Docker`
+*   [iPerf3-WebUI](https://github.com/R0GGER/iperf3-webui) - A modern, lightweight, web-based iPerf3 GUI built with Python 3 and Flask. `Python` `Docker`
 *   [iPerf Reloaded](https://apps.apple.com/us/app/iperf-reloaded/id6763071099) - iPerf Reloaded brings the power of iPerf3 directly to your iPhone and iPad. `iPhone` `iPad`
 
 ## Contact
