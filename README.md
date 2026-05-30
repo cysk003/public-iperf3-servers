@@ -25,6 +25,7 @@ This project is sponsored and supported by <a href="https://cloud.hosthatch.com/
 * [Servers per continent](#servers-per-continent)
 * [Export to .JSON, .CSV, .XLSX](#export)
 * [Apps](#apps)
+* [Links](#links)
 * [Contact](#contact)
 
 ## Servers per continent
@@ -286,6 +287,13 @@ Files are **refreshed automatically every hour**.
 *   [iperf3-tui](https://github.com/dmdmdm/iperf3-tui) - Draw a moving speed test graph in your terminal `Rust`
 *   [iPerf3-WebUI](https://github.com/R0GGER/iperf3-webui) - A modern, lightweight, web-based iPerf3 GUI built with Python 3 and Flask. `Python` `Docker`
 *   [iPerf Reloaded](https://apps.apple.com/us/app/iperf-reloaded/id6763071099) - iPerf Reloaded brings the power of iPerf3 directly to your iPhone and iPad. `iPhone` `iPad`
+
+## Links
+* Repo: [github.com/R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers)
+* Repo: [codeberg.org/iperf3serverlist/public-iperf3-servers](https://codeberg.org/iperf3serverlist/public-iperf3-servers)
+* Website: [iperfserverlist.net](https://iperfserverlist.net)
+* Test: [test.iperf3serverlist.net](https://test.iperf3serverlist.net) / [pending.iperf3serverlist.net](https://pending.iperf3serverlist.net/)
+* Uptime: [up.iperf3serverlist.net](https://up.iperf3serverlist.net/) / [30d-uptime.iperf3serverlist.net](https://30d-uptime.iperf3serverlist.net/?max=90)
 
 ## Contact
 Contact me via e-mail - r0gger[at]iperf3serverlist.net
