@@ -72,7 +72,7 @@ Do you want to add/remove an IP or HOST to this list? Please create a [new issue
 | iperf3 -c speed.netfiber.net.il | -R, -u | 1 | Asia | IL \| ![il](https://flagcdn.com/16x12/il.png) | Jerusalem |
 | iperf3 -c speed.rimon.net.il | -R, -6 | 1 | Asia | IL \| ![il](https://flagcdn.com/16x12/il.png) | Jerusalem |
 | iperf3 -c 169.150.202.193 | -R, -u | 2x10 | Asia | IL \| ![il](https://flagcdn.com/16x12/il.png) | Tel Aviv |
-| iperf3 -c 23.249.61.122 -p 30000 | -R | 10 | Asia | IN \| ![in](https://flagcdn.com/16x12/in.png) | Bangalore |
+| iperf3 -c 23.249.61.122 -p 30100 | -R | 10 | Asia | IN \| ![in](https://flagcdn.com/16x12/in.png) | Bangalore |
 | iperf3 -c 69.48.236.198 -p 30000 | -R | 10 | Asia | IN \| ![in](https://flagcdn.com/16x12/in.png) | Pune |
 | iperf3 -c 23.249.60.154 -p 30000 | -R | 10 | Asia | JP \| ![jp](https://flagcdn.com/16x12/jp.png) | Komagome |
 | iperf3 -c 66.35.31.81 -p 30100 | -R | 10 | Asia | JP \| ![jp](https://flagcdn.com/16x12/jp.png) | Tokyo |
