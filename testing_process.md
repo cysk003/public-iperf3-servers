@@ -12,7 +12,7 @@ Before a server is added to the public list, it must pass a comprehensive testin
    - iPerf3 performance test
 
 2. **Monitoring Period**
-   - [30-day](https://30d-uptime.iperf3serverlist.net) observation period
+   - 30-day observation period
    - Minimum 90% uptime requirement
    - Consistent performance across all tests
 
